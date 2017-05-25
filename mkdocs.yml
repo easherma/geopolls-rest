@@ -1,0 +1,11 @@
+site_name: geopolls-rest
+site_description: Its all about a Weissman score > 5.0
+repo_url: https://github.com/easherma/geopolls-rest
+site_dir: site
+copyright: Copyright &copy; 2015, <a href="https://github.com/easherma">easherma</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
